@@ -1,0 +1,15 @@
+.thumbnai img{
+    width:100%;
+}
+
+.thumbnai{
+    padding:0;
+}
+
+.thumbnai .caption-full{
+    padding: 9px;
+}
+
+#delete-form{
+    display: inline;
+}
